@@ -2,7 +2,17 @@
 Made With ❤️ In India
 
 
-This DesktopWatch.
+This Desktop Watch created in JAVA. This watch is very usefull when we're using full screen applications, or watching movies we simply pin it on top. With it's Always on Top Feature we can pin it on any Window. This Desktop Watch follows 12 hours time formate according to your system time. 
+Anyone can use this DesktopWatch and it's Source Code. and make changes in it.
+``` 
+    -- Desktop Watch V1.0 --
+    Created By _ Vijay Mahajan.
+    Designed By _ Vijay Mahajan.
+    ----------------------------------------------------------------- 
+    Follow Me On GitHub:- ("https://github.com/crazyindiandeveloper")
+    Subscribe My YouTube Channel:- ("https://bit.ly/3dNveY3")
+    Published On " 6.7.2021 "
+```
 
 ## How to Download this DesktopWatch
 
