@@ -34,7 +34,7 @@ java DesktopWatch
 
 
 ### How to use
-Just Download DesktopWatchV1.0.jar file. And Run it from anywhere. With it's Always on Top Feature you can Pin it on any Window.
+Just Download <a href="https://github.com/CrazyIndianDeveloper/DesktopWatchV1.0/raw/main/DesktopWatchV1.0.jar"/>DesktopWatchV1.0.jar</a> file. And Run it from anywhere. With it's Always on Top Feature you can Pin it on any Window.
 ```
 DesktopWatchV1.0.jar
 ```
